@@ -1,6 +1,6 @@
 # MOST ASKED INTERVIEW QUESTIONS ON C++ OOPS
 
-**1. What is Object-Oriented Programming (OOP)?**
+**1. What is Object-Oriented Programming (OOP)?**<br>
 **Answer:** Object-Oriented Programming is a programming paradigm that organizes data and behavior into objects, which are instances of classes. It emphasizes the concepts of encapsulation, inheritance, polymorphism, and abstraction to design and model real-world systems.
 
 **2. Explain the four fundamental principles of OOP.**
